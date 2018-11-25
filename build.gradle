@@ -3,7 +3,7 @@ plugins {
     id "edu.wpi.first.GradleRIO" version "2019.0.0-alpha-3"
 }
 
-def ROBOT_CLASS = "###ROBOTCLASSREPLACE###"
+def ROBOT_CLASS = "org.usfirst.frc.team1218.robot.Robot"
 
 // Define my targets (RoboRIO) and artifacts (deployable files)
 // This is added by GradleRIO's backing project EmbeddedTools.
